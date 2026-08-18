@@ -1,4 +1,4 @@
-# J.A.R.V.I.S
+# R.O.V.E.N.
 
 **Just A Rather Very Intelligent System** — a locally-running AI voice assistant inspired by Iron Man's JARVIS, built for Windows.
 
